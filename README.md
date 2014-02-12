@@ -4,7 +4,6 @@ for twitter updates. [Ask questions on StackOverflow](http://stackoverflow.com/s
 ServiceStack.OrmLite is a **convention-based, configuration-free lightweight ORM** that uses standard **POCO classes and Data Annotation attributes** to infer its table schema.
 
 ServiceStack.OrmLite is an **independent library** and can be used with or without the ServiceStack webservices framework. 
-# GDS C'EST BIEN
 
 # Introduction
 
